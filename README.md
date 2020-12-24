@@ -14,7 +14,7 @@
 
 ![](https://github.com/TryA9ain/RDP_Credential/blob/master/picture/Snipaste_2020-12-24_14-13-02.jpg)
 
-#### 3、选择你想解密的用户目录下的rdp密码文件（以下用Administrator目录下rdp密码文件做演示）运行程序即可 （注意将mimikatz.exe文件和本文件放在同一个目录下）
+#### 3、选择你想解密的用户rdp密码文件（以下用Administrator目录下rdp密码文件做演示）运行程序即可 （注意将mimikatz.exe文件和本文件放在同一个目录下）
 
 ![](https://github.com/TryA9ain/RDP_Credential/blob/master/picture/Snipaste_2020-12-24_14-25-08.jpg)
 
