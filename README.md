@@ -2,7 +2,7 @@
 
 本程序为调用mimikatz抓取主机保存的RDP凭据
 
-Example:  RDP_Credential.exe -u user
+`用法:  RDP_Credential.exe -u user`
 
 ### 建议使用方法：
 
