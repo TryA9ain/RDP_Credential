@@ -2,6 +2,8 @@
 
 本程序为调用mimikatz抓取主机保存的RDP凭据
 
+注意将mimikatz.exe文件和本文件放在同一个目录下!!!!
+
 `用法:  RDP_Credential.exe -u user`
 
 ### 建议使用方法：
