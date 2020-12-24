@@ -1,0 +1,3 @@
+# RDP_Credential
+抓取主机保存的RDP凭据
+本程序为调用mimikatz抓取主机保存的RDP凭据
