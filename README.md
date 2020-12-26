@@ -10,11 +10,11 @@
 
 #### 1、先去`c:\Users\`目录下查看主机所存在的用户目录
 
-Example： `dir /a c:\Users\AppData\Local\Microsoft\Credentials\*`
-
 ![](https://github.com/TryA9ain/RDP_Credential/blob/master/picture/Snipaste_2020-12-24_14-03-14.jpg)
 
 #### 2、依次查询主机上的用户目录下是否存有RDP密码文件
+
+Example： `dir /a c:\Users\AppData\Local\Microsoft\Credentials\*`
 
 ![](https://github.com/TryA9ain/RDP_Credential/blob/master/picture/Snipaste_2020-12-24_14-13-02.jpg)
 
